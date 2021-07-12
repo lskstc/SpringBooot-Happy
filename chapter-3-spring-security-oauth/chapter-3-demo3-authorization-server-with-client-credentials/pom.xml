@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>chapter-3-demo2-resource-server</artifactId>
+    <artifactId>chapter-3-demo3-authorization-server-with-client-credentials</artifactId>
 
     <properties>
         <!-- 依赖相关配置 -->
@@ -45,4 +45,5 @@
             <version>${spring.boot.version}</version>
         </dependency>
     </dependencies>
+
 </project>
